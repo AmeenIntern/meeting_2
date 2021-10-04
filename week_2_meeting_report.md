@@ -34,8 +34,8 @@
 *A mobile application for Euntrepuners where they can build their business, how make business succesful, 
 get lessons from experienced mentors*.
    
-   	### Focus this week:  
-         - ### Alan    : 
+   	**Focus this week:**  
+         -**Alan**    : 
                        - In a plan for adding **dashboard** in TERM mobile app.
 
    
@@ -43,21 +43,21 @@ get lessons from experienced mentors*.
 *This is for helping Euntrepuners who have an idea and needs a financial support. Where Microfina comes in by seeking them Interested
 Investors, supporting them for getting Loan etc..*
         
-        ### Focus this week:
+        **Focus this week:**
          
-         - ### Askin   : 
+         -**Askin**   : 
                        - Handling **Loan Application Portal**.
                        - Giving Instructions to the team.
                        - Mail Ryan 
-  	 - ### Joel    : 
+  	 -**Joel**    : 
                        - Devoloping **UI**  for Mobile app.
                        - Triying to add **Animations** on app.
-  	 - ### Shereen : 
+  	 -**Shereen** : 
                        - Exporting files from **CSV**
-         - ### Jaswant :
+         -**Jaswant** :
                        - Donor Mobile App.
                        - Learning Flutter more.
-         - ### Alan    : 
+         - Alan    : 
                        - Analytics Dashboard.
                        - Looking on what kind of Matrix to use.
                        - Design screen.
